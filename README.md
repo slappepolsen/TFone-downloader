@@ -1,4 +1,4 @@
-# TFone-downloader
+# TFone-downloader (CONCEPT)
 
 ## 📖 Table of Contents
 - [⚠️ Important notes before you start](https://github.com/slappepolsen/TFone-downloader/edit/main/README.md#%EF%B8%8F-important-notes-before-you-start)
